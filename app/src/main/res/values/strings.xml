@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginHelloApp</string>
+    <string name="btnLogin">Вход</string>
+    <string name="btnRegister">Регистрация</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="btnSignUp">Зарегистрироваться</string>
+    <string name="Name">Логин</string>
+    <string name="Password">Пароль</string>
+</resources>
